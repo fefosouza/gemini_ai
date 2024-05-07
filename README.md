@@ -12,6 +12,7 @@ No Studio:
 -Criado API KEY.
 -Consegui subir no prompt a lista de sites acessados no dia e na última semana, solicitei tabela de resumo por acesso, site, tipo e ele gerou! E ainda comparou entre o acessado do dia com da semana, informando sites com aumento de visitas, sugerindo explorar mais atividades em alguns sites e também conseguiu identificar um site/sistema web proprietário de gestão!!! :-O
 -Tentei trazer lista de oficinas de moto próximas, mas diz que não tem acesso a minha localização, não tem acesso ao Maps em tempo real... mesmo especificando um endereço e pedindo oficinas no bairro ou próximas nem mesmo citando bairros. Mas sugeriu como fazer utilizando o Maps e montando a tabela manualmente... :-/
+-Subi uma lista dos produtos vendidos no ano de 2023, pedi para o prompt listar top 10 produtos melhores para venda, considerando periodicidade/volume e lucro. trouxe uma análise muito boa, detalhando o produto e justificando. \o/
 
 Geral:
 -Criado GitHub e repositório.
