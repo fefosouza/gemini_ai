@@ -42,3 +42,5 @@ Prepare-se para o futuro: Dobras espaciais estão mais perto do que imaginamos
 -Percebi que muitos casos onde não há uma estrutura de prompt, ele realmente devaga ou cita (normalmente) 4~5 situações, exemplos, pilares, elucidações ou "alucinações".
 
 -Feito questionamentos sobre estrutura de frases em PT-BR, bem como consistência, informação, posicionamento de sinais (vírgula, pontos, áspas) e realmente corrigiu o que precisava, fez sugestões de melhorias ou até afirmou o que estava correto e justificou.
+
+-Questionado a IA sobre dados sensíveis e utilização por empresas com informações confidenciais e ela informou e justificou por meio de pilares (trocando em miúdos) de que os dados utilizados são pertencentes do usuário que está utilizando, e que o Google possui camadas de proteção e confidencialidade...
