@@ -44,3 +44,14 @@ Prepare-se para o futuro: Dobras espaciais estão mais perto do que imaginamos
 -Feito questionamentos sobre estrutura de frases em PT-BR, bem como consistência, informação, posicionamento de sinais (vírgula, pontos, áspas) e realmente corrigiu o que precisava, fez sugestões de melhorias ou até afirmou o que estava correto e justificou.
 
 -Questionado a IA sobre dados sensíveis e utilização por empresas com informações confidenciais e ela informou e justificou por meio de pilares (trocando em miúdos) de que os dados utilizados são pertencentes do usuário que está utilizando, e que o Google possui camadas de proteção e confidencialidade...
+
+
+08052024 Aula 3
+No Studio:
+-Aqui foi feito um teste com áudio como sugerido. Encontrado algo bem interessante que eu compartilho:
+https://drive.google.com/file/d/1HL_DgiJjMvTrG3xjv5gcJ6F52yrJLaHY/view?usp=sharing, https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221Sn7-QVrBRSCFkGS9dns-pF9mxQpu7J1D%22%5D,%22action%22:%22open%22,%22userId%22:%22112519395402898208566%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+Em resumo, informado áudio direto "Eu tenho arroz feito, ovo, prego, farinha de trigo, carne moída feita e temperos". Pedi para dizer qual ingrediente estava fora de contexto e ele me disse que era a farinha de trigo.
+Achei que fosse algum entendimento errôneo do áudio e eu pedi para ele transcrever e trouxe o prego "em claro tom". Pedi para justificar porque da farinha e disse que seria feito para pratos doces. Questionei sobre o prego, ele disse que eu tinha razão (LOL). Mesmo assim ele insistiu em ser a farinha de trigo. Ensinei a ele dizendo que a farinha também usa em receitas de pratos. Novamente eu tinha razão. Pedi para me falar qual ingrediente estava fora de contexto e ele disse ser o prego (ufa, já tinha achado que iria comer ferro kkk). Finalmente, pedi para ele me dizer qual item estava fora de contexto somente levando em consideração o audio, sem o que dissemos e ele reafirmou ser o prego! ;-)
+
+Geral:
+-Acessado Google Collab.
