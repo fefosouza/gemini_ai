@@ -1,6 +1,9 @@
 # gemini_ai
 Progresso de Imersão Gemini AI Alura e Google - Maio24
 
+***IMPORTANTE***
+A ideia é criar um diário prático aplicado da imersão, sem mencionar dados sensíveis utilizados, deixando aberto papra qualquer tipo de "imput" mas seguindo a lógica explicada/utilizada.
+
 
 06052024 Aula 1
 No Gemini:
@@ -36,6 +39,6 @@ A ficção se torna realidade? Estudo abre caminho para viagens em dobras espaci
 Opção 4 (Foco na urgência):
 Prepare-se para o futuro: Dobras espaciais estão mais perto do que imaginamos
 
-Geral:
--Percebi que muitos casos onde não há uma estrutura de prompt, ele realmente devaga ou cita (normalmente) 5 situações, exemplos.
+-Percebi que muitos casos onde não há uma estrutura de prompt, ele realmente devaga ou cita (normalmente) 4~5 situações, exemplos, pilares, elucidações ou "alucinações".
 
+-Feito questionamentos sobre estrutura de frases em PT-BR, bem como consistência, informação, posicionamento de sinais (vírgula, pontos, áspas) e realmente corrigiu o que precisava, fez sugestões de melhorias ou até afirmou o que estava correto e justificou.
